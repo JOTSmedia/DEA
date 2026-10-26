@@ -1,8 +1,0 @@
-{
-  "name": "coaching-with-dea",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Coaching with Déa, a responsive animated website",
-  "type": "module",
-  "scripts": {"start": "node preview.mjs", "build": "node build.mjs", "check": "node --check app.js"}
-}
