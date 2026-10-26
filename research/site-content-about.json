@@ -1,0 +1,395 @@
+{
+  "researched_at": "2026-10-26",
+  "task_scope": "Preserve existing Desktop/DEA design/layout. Fill factual content omissions and use local interactions for story/speaking details. Do not rebuild every sitemap route.",
+  "sources": [
+    "https://www.coachingwithdea.com/",
+    "https://www.coachingwithdea.com/bookings",
+    "https://www.coachingwithdea.com/contact-8",
+    "https://www.coachingwithdea.com/epk",
+    "https://www.coachingwithdea.com/gallery",
+    "https://www.coachingwithdea.com/the-my-second-chance-course",
+    "https://www.coachingwithdea.com/sitemap.xml"
+  ],
+  "source_access": "Public primary-source HTML retrieved directly. No login or restricted content accessed. About and speaking live together at /bookings; no separate /about or /story route in sitemap.",
+  "already_present_in_current_index": [
+    "Women’s empowerment and relationship focus",
+    "Mother of five, Brazilian-born adoptee, divorce experience",
+    "Faith-based personal story and welcome to people of any/no faith",
+    "Consultation, private coaching, mentorship overview",
+    "Love Most introduction",
+    "Direct contact email and enquiry composer",
+    "Real photography and Instagram link"
+  ],
+  "recommended_additions": [
+    {
+      "priority": 1,
+      "location": "Read Déa’s story link in existing About section",
+      "interaction": "Open inline details or existing-style dialog instead of navigating to /bookings.",
+      "title": "A life of finding her way back",
+      "copy": [
+        "Déa grew up in Brazil, where she and her fraternal twin were adopted together as infants. Today, she is a mother of five and a grandmother. Her experience of divorce, faith and rebuilding her life shapes the way she connects with others.",
+        "A creative life brought her to the United States through dance scholarships at the Joffrey Ballet and Alvin Ailey American Dance Theater. She later became a singer, songwriter, entrepreneur and podcast host. Her work now centers on helping people reconnect with themselves and build healthier relationships."
+      ],
+      "source_urls": [
+        "https://www.coachingwithdea.com/",
+        "https://www.coachingwithdea.com/bookings"
+      ],
+      "note": "Paraphrased biographical facts; no invented first-person quotation."
+    },
+    {
+      "priority": 1,
+      "location": "About detail / small credential list",
+      "title": "Training and experience",
+      "copy": [
+        "Marriage and family coaching and divorced women’s coaching — Light University / American Association of Christian Counselors.",
+        "Certified Trauma Healing Facilitator — Trauma Healing Institute."
+      ],
+      "source_urls": [
+        "https://www.coachingwithdea.com/bookings"
+      ]
+    },
+    {
+      "priority": 1,
+      "location": "Existing Invite Déa to speak link below growth gallery",
+      "interaction": "Show local speaking enquiry details, then prepare email through existing contact form.",
+      "title": "A conversation that brings people together",
+      "copy": [
+        "Invite Déa as a speaker or moderator. Her work brings together women’s empowerment, relationships and trauma healing, with experience as a podcast host, singer and songwriter.",
+        "For speaking, moderation or event enquiries, share your event date, format, audience and location."
+      ],
+      "email": "coachingwithdea@gmail.com",
+      "source_urls": [
+        "https://www.coachingwithdea.com/bookings",
+        "https://www.coachingwithdea.com/contact-8"
+      ],
+      "note": "Second sentence is suggested form guidance, not an asserted official requirement."
+    },
+    {
+      "priority": 2,
+      "location": "Expanded story detail or existing podcast section",
+      "title": "A few milestones",
+      "copy": [
+        "Love Most received an Excellence Award for Best Live Episode at the 28th Annual Communicator Awards.",
+        "Déa received the Huggies MomInspired grant for her Mama Taco Towel product and the President’s Call to Service Award for charitable work in Uganda."
+      ],
+      "source_urls": [
+        "https://www.coachingwithdea.com/bookings"
+      ],
+      "note": "Awards are official biography claims. Avoid implying a current clinical licence or inventing additional certifications."
+    },
+    {
+      "priority": 3,
+      "location": "Optional final paragraph in story detail",
+      "title": "My Second Chance",
+      "copy": [
+        "Her earlier My Second Chance course grew from her belief that rebuilding a relationship with yourself is central to moving forward."
+      ],
+      "source_urls": [
+        "https://www.coachingwithdea.com/the-my-second-chance-course"
+      ],
+      "note": "Do not promote active enrollment: source still lists a June 1, 2022 start date."
+    }
+  ],
+  "content_cautions": [
+    {
+      "url": "https://www.coachingwithdea.com/the-my-second-chance-course",
+      "finding": "Historical course page still says next session begins June 1, 2022; discount and enrollment details should not be treated as current."
+    },
+    {
+      "url": "https://www.coachingwithdea.com/gift-card",
+      "finding": "Lists packages connected to the historical course. No proof they remain available."
+    },
+    {
+      "url": "https://www.coachingwithdea.com/shop",
+      "finding": "Shows no products."
+    },
+    {
+      "url": "https://www.coachingwithdea.com/paywall",
+      "finding": "Permission-restricted screen; nothing to migrate."
+    },
+    {
+      "url": "https://www.coachingwithdea.com/bookings",
+      "finding": "Board/elder roles are described as current in source but have no date. Omit from compact redesign unless needed rather than asserting independently current roles."
+    }
+  ],
+  "route_inventory": [
+    {
+      "url": "https://www.coachingwithdea.com/paywall",
+      "path": "/paywall",
+      "purpose": "Restricted account page",
+      "discovery": "https://www.coachingwithdea.com/pages-sitemap.xml",
+      "promote_in_current_design": false
+    },
+    {
+      "url": "https://www.coachingwithdea.com",
+      "path": "/",
+      "purpose": "Home / introductory story",
+      "discovery": "https://www.coachingwithdea.com/pages-sitemap.xml",
+      "promote_in_current_design": true
+    },
+    {
+      "url": "https://www.coachingwithdea.com/epk",
+      "path": "/epk",
+      "purpose": "Music / electronic press kit",
+      "discovery": "https://www.coachingwithdea.com/pages-sitemap.xml",
+      "promote_in_current_design": false
+    },
+    {
+      "url": "https://www.coachingwithdea.com/book-online",
+      "path": "/book-online",
+      "purpose": "Coaching services and booking",
+      "discovery": "https://www.coachingwithdea.com/pages-sitemap.xml",
+      "promote_in_current_design": true
+    },
+    {
+      "url": "https://www.coachingwithdea.com/the-my-second-chance-course",
+      "path": "/the-my-second-chance-course",
+      "purpose": "My Second Chance course (historical dates)",
+      "discovery": "https://www.coachingwithdea.com/pages-sitemap.xml",
+      "promote_in_current_design": false
+    },
+    {
+      "url": "https://www.coachingwithdea.com/gallery",
+      "path": "/gallery",
+      "purpose": "Photo gallery",
+      "discovery": "https://www.coachingwithdea.com/pages-sitemap.xml",
+      "promote_in_current_design": false
+    },
+    {
+      "url": "https://www.coachingwithdea.com/press",
+      "path": "/press",
+      "purpose": "Press and media",
+      "discovery": "https://www.coachingwithdea.com/pages-sitemap.xml",
+      "promote_in_current_design": true
+    },
+    {
+      "url": "https://www.coachingwithdea.com/bookings",
+      "path": "/bookings",
+      "purpose": "Full biography / speaking / booking enquiries",
+      "discovery": "https://www.coachingwithdea.com/pages-sitemap.xml",
+      "promote_in_current_design": true
+    },
+    {
+      "url": "https://www.coachingwithdea.com/praises",
+      "path": "/praises",
+      "purpose": "Testimonials",
+      "discovery": "https://www.coachingwithdea.com/pages-sitemap.xml",
+      "promote_in_current_design": true
+    },
+    {
+      "url": "https://www.coachingwithdea.com/contact-8",
+      "path": "/contact-8",
+      "purpose": "Contact",
+      "discovery": "https://www.coachingwithdea.com/pages-sitemap.xml",
+      "promote_in_current_design": true
+    },
+    {
+      "url": "https://www.coachingwithdea.com/shop",
+      "path": "/shop",
+      "purpose": "Merchandise (empty)",
+      "discovery": "https://www.coachingwithdea.com/pages-sitemap.xml",
+      "promote_in_current_design": false
+    },
+    {
+      "url": "https://www.coachingwithdea.com/podcast",
+      "path": "/podcast",
+      "purpose": "Love Most podcast",
+      "discovery": "https://www.coachingwithdea.com/pages-sitemap.xml",
+      "promote_in_current_design": true
+    },
+    {
+      "url": "https://www.coachingwithdea.com/webinar-registration",
+      "path": "/webinar-registration",
+      "purpose": "The Radiant Woman mentorship",
+      "discovery": "https://www.coachingwithdea.com/pages-sitemap.xml",
+      "promote_in_current_design": true
+    },
+    {
+      "url": "https://www.coachingwithdea.com/gift-card",
+      "path": "/gift-card",
+      "purpose": "Gift packages (potentially stale)",
+      "discovery": "https://www.coachingwithdea.com/pages-sitemap.xml",
+      "promote_in_current_design": false
+    },
+    {
+      "url": "https://www.coachingwithdea.com/service-page/consultation-with-déa",
+      "path": "/service-page/consultation-with-déa",
+      "purpose": "Consultation service",
+      "discovery": "https://www.coachingwithdea.com/booking-services-sitemap.xml",
+      "promote_in_current_design": true
+    },
+    {
+      "url": "https://www.coachingwithdea.com/service-page/private-coaching-session-with-déa",
+      "path": "/service-page/private-coaching-session-with-déa",
+      "purpose": "Private coaching service",
+      "discovery": "https://www.coachingwithdea.com/booking-services-sitemap.xml",
+      "promote_in_current_design": true
+    },
+    {
+      "url": "https://www.coachingwithdea.com/service-page/the-radiant-woman-mentorship-program",
+      "path": "/service-page/the-radiant-woman-mentorship-program",
+      "purpose": "Mentorship service",
+      "discovery": "https://www.coachingwithdea.com/booking-services-sitemap.xml",
+      "promote_in_current_design": true
+    },
+    {
+      "url": "https://www.coachingwithdea.com/pricing-plans/list",
+      "path": "/pricing-plans/list",
+      "purpose": "Pricing plans",
+      "discovery": "https://www.coachingwithdea.com/pricing-plans-sitemap.xml",
+      "promote_in_current_design": true
+    }
+  ],
+  "public_downloads": [
+    {
+      "url": "https://www.coachingwithdea.com/_files/ugd/aac953_3eeb360f76104d9aa0765f08e6d40bbe.pdf",
+      "label": "Stine.jpg",
+      "source_page": "https://www.coachingwithdea.com/the-my-second-chance-course",
+      "review_status": "Discovered public link; PDF not read. Historical course page; do not promote as current policy without review."
+    },
+    {
+      "url": "https://www.coachingwithdea.com/_files/ugd/aac953_03ca5c3ebb0d400bab23d32015a3c16c.pdf",
+      "label": "front main_edited.jpg",
+      "source_page": "https://www.coachingwithdea.com/the-my-second-chance-course",
+      "review_status": "Discovered public link; PDF not read. Historical course page; do not promote as current policy without review."
+    },
+    {
+      "url": "https://www.coachingwithdea.com/_files/ugd/aac953_dbe713a98bbb46dbb2e9f4b641f58980.pdf",
+      "label": "phonenix gibbs.jpg",
+      "source_page": "https://www.coachingwithdea.com/the-my-second-chance-course",
+      "review_status": "Discovered public link; PDF not read. Historical course page; do not promote as current policy without review."
+    },
+    {
+      "url": "https://www.coachingwithdea.com/_files/ugd/aac953_618f99f70ac7421b9235306a6c7d84e7.pdf",
+      "label": "tahji.jpg",
+      "source_page": "https://www.coachingwithdea.com/the-my-second-chance-course",
+      "review_status": "Discovered public link; PDF not read. Historical course page; do not promote as current policy without review."
+    },
+    {
+      "url": "https://www.coachingwithdea.com/_files/ugd/aac953_e91ce9f58e424acf99dc2e8e1be1dbee.pdf",
+      "label": "MSC Coaching Agreement - click hereMSC Coaching Agreement - click here",
+      "source_page": "https://www.coachingwithdea.com/the-my-second-chance-course",
+      "review_status": "Discovered public link; PDF not read. Historical course page; do not promote as current policy without review."
+    }
+  ],
+  "existing_asset_reference": "asset-sources.json contains inspected hero, speaking, event, interview and podcast assets already saved locally. Prefer these to avoid changing the approved visual design.",
+  "additional_gallery": {
+    "source_url": "https://www.coachingwithdea.com/gallery",
+    "credited_photographer": "Marc Baptiste",
+    "shoot_team": {
+      "fashion_stylist": "Alejandro Garcia",
+      "hair_stylist": "Stacey Ciceron",
+      "makeup_artist": "Sade Boyewa El",
+      "videographer": "Kearson Raymond"
+    },
+    "image_sources": [
+      {
+        "url": "https://static.wixstatic.com/media/4cff20_3a0da231fa8c47098c92dc41c04db882~mv2.jpg",
+        "source_alt": ""
+      },
+      {
+        "url": "https://static.wixstatic.com/media/4cff20_58cf482bd92b41acb3ca1bbeeb7864fc~mv2.jpg",
+        "source_alt": "IMG_9414.jpg"
+      },
+      {
+        "url": "https://static.wixstatic.com/media/4cff20_26cfbaff21f042b5879d931c3750d053~mv2.jpg",
+        "source_alt": ""
+      },
+      {
+        "url": "https://static.wixstatic.com/media/4cff20_3b64960c1a2c4d8ca378ae44f9d54887~mv2.jpg",
+        "source_alt": ""
+      },
+      {
+        "url": "https://static.wixstatic.com/media/4cff20_fa752b5923fd40d1910979a51b4587df~mv2.jpg",
+        "source_alt": ""
+      },
+      {
+        "url": "https://static.wixstatic.com/media/4cff20_1fea7be73e364a5aada68112a50e26cf~mv2.jpg",
+        "source_alt": ""
+      },
+      {
+        "url": "https://static.wixstatic.com/media/4cff20_8336c4f481fd407b9fb3a78d46cade69~mv2.jpg",
+        "source_alt": ""
+      },
+      {
+        "url": "https://static.wixstatic.com/media/4cff20_84d9e35ff5c044f7bc267ef7ff9b8c9c~mv2.jpg",
+        "source_alt": ""
+      },
+      {
+        "url": "https://static.wixstatic.com/media/4cff20_17eb90f973a84c33ad0a53d9cb28fbfe~mv2.jpg",
+        "source_alt": ""
+      },
+      {
+        "url": "https://static.wixstatic.com/media/4cff20_d0f9e9fdc7d44808b2d2a7df5d776ff2~mv2.jpg",
+        "source_alt": ""
+      },
+      {
+        "url": "https://static.wixstatic.com/media/4cff20_fb60f7480d054718811a1e514819d66a~mv2.jpg",
+        "source_alt": ""
+      },
+      {
+        "url": "https://static.wixstatic.com/media/4cff20_0eba75b532584d1aaadb5eed32201423~mv2.jpg",
+        "source_alt": ""
+      },
+      {
+        "url": "https://static.wixstatic.com/media/4cff20_9198ab7bf29b48c09612fe9d26ee4e29~mv2.jpg",
+        "source_alt": ""
+      },
+      {
+        "url": "https://static.wixstatic.com/media/4cff20_dd8d8fa4dad04282a3bd54006fa1ee23~mv2.jpg",
+        "source_alt": ""
+      },
+      {
+        "url": "https://static.wixstatic.com/media/4cff20_34e10a4f1ef84212b537c263da6c375c~mv2.jpg",
+        "source_alt": ""
+      },
+      {
+        "url": "https://static.wixstatic.com/media/4cff20_539e922e9b7c49859232f5a34796af8f~mv2.jpg",
+        "source_alt": ""
+      },
+      {
+        "url": "https://static.wixstatic.com/media/4cff20_0f2ac29cc0424c8c9e654bfc3f1ad81d~mv2.jpg",
+        "source_alt": ""
+      },
+      {
+        "url": "https://static.wixstatic.com/media/4cff20_ae0ff24731644390ba59b24dad11f230~mv2.jpg",
+        "source_alt": ""
+      },
+      {
+        "url": "https://static.wixstatic.com/media/4cff20_949268482101418d9fc5339281b20c4f~mv2.jpg",
+        "source_alt": ""
+      },
+      {
+        "url": "https://static.wixstatic.com/media/4cff20_914bd58852474a9ab9b125660864f022~mv2.jpg",
+        "source_alt": ""
+      },
+      {
+        "url": "https://static.wixstatic.com/media/4cff20_54722acab4014baa98fdc014b3630de4~mv2.jpg",
+        "source_alt": ""
+      },
+      {
+        "url": "https://static.wixstatic.com/media/4cff20_d5b7bcd6517942f3b978b710390e8dcd~mv2.jpg",
+        "source_alt": ""
+      },
+      {
+        "url": "https://static.wixstatic.com/media/4cff20_bec5355d0ccb4871b1115ce08edda13d~mv2.jpg",
+        "source_alt": ""
+      },
+      {
+        "url": "https://static.wixstatic.com/media/4cff20_0dd24f73d12547629a15df606066a26e~mv2.jpg",
+        "source_alt": ""
+      },
+      {
+        "url": "https://static.wixstatic.com/media/4cff20_64e990b7273c47918d5ec67ee4e0b014~mv2.jpg",
+        "source_alt": ""
+      }
+    ],
+    "inspection_status": "Public image URLs inventoried; not downloaded or visually inspected in this pass."
+  },
+  "music_note": {
+    "source_url": "https://www.coachingwithdea.com/epk",
+    "single": "You Lift Me Up",
+    "music_contact": "bookings.deamusicministry@gmail.com",
+    "recommendation": "Optional biographical context only; current redesign is for coaching. Do not substitute music-specific email for main coaching contact."
+  }
+}

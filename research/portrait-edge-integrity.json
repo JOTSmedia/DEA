@@ -1,0 +1,41 @@
+{
+  "method": "Non-generative alpha-only edge feather; original RGB unchanged",
+  "source": "assets/dea-original-cutout.png",
+  "output": "assets/dea-soft-cutout.webp",
+  "source_size": [
+    2574,
+    3100
+  ],
+  "output_size": [
+    2574,
+    3100
+  ],
+  "alpha_operations": [
+    {
+      "operation": "Pillow ImageFilter.MinFilter",
+      "size": 3
+    },
+    {
+      "operation": "Pillow ImageFilter.GaussianBlur",
+      "radius": 1.4
+    }
+  ],
+  "encoding": {
+    "format": "WebP",
+    "lossless": true,
+    "exact": true,
+    "quality": 100,
+    "method": 6
+  },
+  "rgb_pixels_identical_to_source_png": true,
+  "decoded_alpha_identical_to_feathered_mask": true,
+  "changed_alpha_pixel_count": 355387,
+  "total_pixel_count": 7979400,
+  "generated_pixels": 0,
+  "color_correction_applied": false,
+  "resizing_applied": false,
+  "original_file_unchanged": true,
+  "source_sha256": "7047a64ef6601c63df2c690451cc63f46ad5e491902eada613d84eb670d132f6",
+  "output_sha256": "98829519f76573a5ef568b65b4e913871765f1a66dba469a2ee57031e3ad6329",
+  "output_bytes": 6569504
+}

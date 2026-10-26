@@ -1,0 +1,70 @@
+{
+  "verified_at": "2026-10-26",
+  "episodes": [
+    {
+      "title": "\"The Journey of an Exceptional Woman\" w/, Executive VP of Fortune Media Group, Lisa Vrancken",
+      "url": "https://www.youtube.com/live/ivUUp4CU5lk?feature=share",
+      "watch_url": "https://www.youtube.com/watch?v=ivUUp4CU5lk",
+      "embed_id": "ivUUp4CU5lk",
+      "embed_url": "https://www.youtube.com/embed/ivUUp4CU5lk",
+      "author": "Coach Déa",
+      "source_url": "https://www.coachingwithdea.com/podcast",
+      "verification_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DivUUp4CU5lk&format=json",
+      "verification": "YouTube oEmbed returned title and embeddable iframe on 2026-10-26",
+      "thumbnail_url": "https://i.ytimg.com/vi/ivUUp4CU5lk/hqdefault.jpg"
+    },
+    {
+      "title": "\"Healing Starts with a Desire\" with Rev. Jocelyn Jones",
+      "url": "https://www.youtube.com/live/FsQ8jesTZJI?feature=share",
+      "watch_url": "https://www.youtube.com/watch?v=FsQ8jesTZJI",
+      "embed_id": "FsQ8jesTZJI",
+      "embed_url": "https://www.youtube.com/embed/FsQ8jesTZJI",
+      "author": "Coach Déa",
+      "source_url": "https://www.coachingwithdea.com/podcast",
+      "verification_url": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFsQ8jesTZJI&format=json",
+      "verification": "YouTube oEmbed returned title and embeddable iframe on 2026-10-26",
+      "thumbnail_url": "https://i.ytimg.com/vi/FsQ8jesTZJI/hqdefault.jpg"
+    }
+  ],
+  "apple_episode": {
+    "title": "Founder of Veritas Mission Film Association, Award Winning Filmmaker and Entrepreneur, Dr Kevin McAfee.",
+    "url": "https://podcasts.apple.com/us/podcast/founder-of-veritas-mission-film-association-award/id1703706297?i=1000625313250",
+    "show_id": "1703706297",
+    "episode_id": "1000625313250",
+    "published": "2023-08-22",
+    "duration_label": "1h 13m",
+    "verification": "Title, date and duration verified in public Apple Podcasts HTML metadata. This metadata does not itself say this episode won the Communicator Award.",
+    "verification_url": "https://podcasts.apple.com/us/podcast/id1703706297?i=1000625313250"
+  },
+  "unavailable_attempts": [
+    {
+      "embed_id": "PcNjczg-0Dk",
+      "source_url": "https://www.youtube.com/live/PcNjczg-0Dk?feature=share",
+      "result": "HTTP Error 401: Unauthorized",
+      "note": "Do not use as playable embed; title not verified."
+    },
+    {
+      "embed_id": "KOE5TRo4b2A",
+      "source_url": "https://www.youtube.com/live/KOE5TRo4b2A?feature=share",
+      "result": "HTTP Error 401: Unauthorized",
+      "note": "Do not use as playable embed; title not verified."
+    },
+    {
+      "embed_id": "fHzX-4u1flY",
+      "source_url": "https://www.youtube.com/live/fHzX-4u1flY?feature=share",
+      "result": "HTTP Error 401: Unauthorized",
+      "note": "Do not use as playable embed; title not verified."
+    },
+    {
+      "embed_id": "ydxg_kPM2N4",
+      "source_url": "https://www.youtube.com/live/ydxg_kPM2N4?feature=share",
+      "result": "HTTP Error 401: Unauthorized",
+      "note": "Do not use as playable embed; title not verified."
+    }
+  ],
+  "notes": [
+    "Only two requested YouTube episodes returned usable public oEmbed metadata. Maria Wilkes, Lee Benton, Michelle McKinney Hammond and Kevin McAfee returned HTTP 401 from oEmbed.",
+    "Original site maps PcNjczg-0Dk to Maria Wilkes image, KOE5TRo4b2A to Lee Benton image, fHzX-4u1flY to MMH image, ydxg_kPM2N4 to Dr Kevin McAfee image. This is source labeling rather than verified playback metadata.",
+    "Use exact titles or clearly editorial short labels. No video descriptions or timestamps were invented."
+  ]
+}

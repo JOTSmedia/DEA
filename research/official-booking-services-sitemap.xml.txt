@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" generatedBy="WIX">
+<url>
+<loc>https://www.coachingwithdea.com/service-page/consultation-with-déa</loc>
+<lastmod>2025-06-08</lastmod>
+<image:image>
+<image:loc>https://static.wixstatic.com/media/aac953_1e810ee9e7e14c1a8b4ab73c5ecae700~mv2.jpg</image:loc>
+<image:title>face</image:title>
+</image:image>
+</url>
+<url>
+<loc>https://www.coachingwithdea.com/service-page/private-coaching-session-with-déa</loc>
+<lastmod>2025-02-25</lastmod>
+<image:image>
+<image:loc>https://static.wixstatic.com/media/aac953_1e810ee9e7e14c1a8b4ab73c5ecae700~mv2.jpg</image:loc>
+<image:title>face</image:title>
+</image:image>
+</url>
+<url>
+<loc>https://www.coachingwithdea.com/service-page/the-radiant-woman-mentorship-program</loc>
+<lastmod>2025-04-11</lastmod>
+<image:image>
+<image:loc>https://static.wixstatic.com/media/aac953_3f41e756e25c4146af1b1287f7069d08~mv2.jpg</image:loc>
+</image:image>
+</url>
+</urlset>
