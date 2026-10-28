@@ -1,0 +1,120 @@
+[
+  {
+    "file": "assets/dea-portrait.jpg",
+    "width": 4827,
+    "height": 3218,
+    "url": "https://www.inspiringlivesmagazine.com/wp-content/uploads/2025/12/IMG_5022.jpeg",
+    "source_page": "https://www.inspiringlivesmagazine.com/health-wellness/the-silent-catalyst-how-trauma-shapes-relationships/",
+    "description": "Clean studio portrait, black outfit, warm gray background; recommended hero.",
+    "credit": "Marina Fridlyand / Reflection Studio"
+  },
+  {
+    "file": "assets/dea-speaking.jpg",
+    "width": 1730,
+    "height": 1167,
+    "url": "https://www.inspiringlivesmagazine.com/wp-content/uploads/2025/12/IMG_1551.jpg",
+    "source_page": "https://www.inspiringlivesmagazine.com/health-wellness/the-silent-catalyst-how-trauma-shapes-relationships/",
+    "description": "D\u00e9a in white speaking into a microphone at an event.",
+    "credit": "Marina Fridlyand / Reflection Studio"
+  },
+  {
+    "file": "assets/dea-event.jpg",
+    "width": 1179,
+    "height": 1235,
+    "url": "https://www.inspiringlivesmagazine.com/wp-content/uploads/2025/12/IMG_3497.jpg",
+    "source_page": "https://www.inspiringlivesmagazine.com/health-wellness/the-silent-catalyst-how-trauma-shapes-relationships/",
+    "description": "D\u00e9a in black with white collar, reading at Paramus Regional Chamber of Commerce.",
+    "credit": "Marina Fridlyand / Reflection Studio"
+  },
+  {
+    "file": "assets/dea-warm-portrait.jpg",
+    "width": 850,
+    "height": 555,
+    "url": "https://static.wixstatic.com/media/4cff20_3a0da231fa8c47098c92dc41c04db882~mv2.jpg",
+    "source_page": "https://www.coachingwithdea.com/",
+    "description": "Smiling D\u00e9a portrait, cream background and purple top.",
+    "credit": "Coaching with D\u00e9a official website"
+  },
+  {
+    "file": "assets/dea-interview.jpg",
+    "width": 1140,
+    "height": 838,
+    "url": "https://static.wixstatic.com/media/4cff20_9fb531b6a7ac459787b0ba591f8aab95~mv2.jpg",
+    "source_page": "https://www.coachingwithdea.com/press",
+    "description": "D\u00e9a seated with another woman in an interview setting.",
+    "credit": "Coaching with D\u00e9a official website"
+  },
+  {
+    "file": "assets/love-most-cover.jpg",
+    "width": 1080,
+    "height": 1033,
+    "url": "https://static.wixstatic.com/media/aac953_af3410f584134ee6a70c61b21dbd3cc1~mv2.jpg",
+    "source_page": "https://www.coachingwithdea.com/press",
+    "description": "Red Love Most podcast artwork with D\u00e9a portrait and award mention.",
+    "credit": "Coaching with D\u00e9a official website"
+  },
+  {
+    "file": "assets/hero-960.jpg",
+    "width": 960,
+    "height": 640,
+    "url": "https://www.inspiringlivesmagazine.com/wp-content/uploads/2025/12/IMG_5022.jpeg",
+    "source_page": "https://www.inspiringlivesmagazine.com/health-wellness/the-silent-catalyst-how-trauma-shapes-relationships/",
+    "description": "Clean studio portrait, black outfit, warm gray background; recommended hero.",
+    "credit": "Marina Fridlyand / Reflection Studio",
+    "derived_from": "assets/dea-portrait.jpg",
+    "conversion": {
+      "operation": "resize and JPEG encoding only; no content edits",
+      "jpeg_quality": 75,
+      "progressive": true
+    },
+    "size_bytes": 33300
+  },
+  {
+    "file": "assets/hero-1800.jpg",
+    "width": 1800,
+    "height": 1200,
+    "url": "https://www.inspiringlivesmagazine.com/wp-content/uploads/2025/12/IMG_5022.jpeg",
+    "source_page": "https://www.inspiringlivesmagazine.com/health-wellness/the-silent-catalyst-how-trauma-shapes-relationships/",
+    "description": "Clean studio portrait, black outfit, warm gray background; recommended hero.",
+    "credit": "Marina Fridlyand / Reflection Studio",
+    "derived_from": "assets/dea-portrait.jpg",
+    "conversion": {
+      "operation": "resize and JPEG encoding only; no content edits",
+      "jpeg_quality": 75,
+      "progressive": true
+    },
+    "size_bytes": 81745
+  },
+  {
+    "file": "assets/hero-3000.jpg",
+    "width": 3000,
+    "height": 2000,
+    "url": "https://www.inspiringlivesmagazine.com/wp-content/uploads/2025/12/IMG_5022.jpeg",
+    "source_page": "https://www.inspiringlivesmagazine.com/health-wellness/the-silent-catalyst-how-trauma-shapes-relationships/",
+    "description": "Clean studio portrait, black outfit, warm gray background; recommended hero.",
+    "credit": "Marina Fridlyand / Reflection Studio",
+    "derived_from": "assets/dea-portrait.jpg",
+    "conversion": {
+      "operation": "resize and JPEG encoding only; no content edits",
+      "jpeg_quality": 75,
+      "progressive": true
+    },
+    "size_bytes": 214548
+  },
+  {
+    "file": "assets/dea-speaking-web.jpg",
+    "width": 1730,
+    "height": 1167,
+    "url": "https://www.inspiringlivesmagazine.com/wp-content/uploads/2025/12/IMG_1551.jpg",
+    "source_page": "https://www.inspiringlivesmagazine.com/health-wellness/the-silent-catalyst-how-trauma-shapes-relationships/",
+    "description": "D\u00e9a in white speaking into a microphone at an event.",
+    "credit": "Marina Fridlyand / Reflection Studio",
+    "derived_from": "assets/dea-speaking.jpg",
+    "conversion": {
+      "operation": "resize and JPEG encoding only; no content edits",
+      "jpeg_quality": 75,
+      "progressive": true
+    },
+    "size_bytes": 118606
+  }
+]

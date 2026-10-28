@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-26",
+  "viewport_widths": [
+    390,
+    768,
+    1440,
+    3840
+  ],
+  "layout_inspector_failures": 0,
+  "loader_checks": "passed at all four sizes",
+  "photo_pixels": "unchanged from original foreground crop",
+  "review": "Contour and photo align, full mobile pose fits, COACH D\u00c9A branding fits, speaking topics and event enquiries work. Hero and lower-page layouts visually reviewed.",
+  "retained_warnings": [
+    "Existing responsive font-size variation follows the approved site design.",
+    "No supplied speaking footage; existing still photographs and linked podcast episodes are retained."
+  ],
+  "reviewed_artifacts": [
+    ".taste-skill/speaking-final/report.json",
+    "research/speaking-loader-verification.json",
+    "research/outline-provenance.json"
+  ]
+}

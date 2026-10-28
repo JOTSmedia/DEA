@@ -1,0 +1,8169 @@
+[
+  {
+    "width": 1440,
+    "height": 900,
+    "overflow": false,
+    "brand": "COACH DÉA\nSPEAKER & MODERATOR",
+    "brandBox": {
+      "x": 51.828125,
+      "y": 34.40625,
+      "width": 287.359375,
+      "height": 39.1875,
+      "right": 339.1875
+    },
+    "navBox": {
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 108,
+      "right": 1440
+    },
+    "railBox": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "right": 0
+    },
+    "paths": 119,
+    "duplicateIds": [],
+    "brokenAnchors": [],
+    "badTopics": [],
+    "privateOffers": false,
+    "nameBare": false,
+    "ready": true,
+    "samples": [
+      {
+        "time": 57.69999998807907,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 0,
+        "photo": 0,
+        "outline": 1,
+        "dash": 1,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -2.5,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -5,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.5,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 103,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 2,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.96,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -2.73887,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.99263,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.26113,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 308.9000000357628,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 7,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.86,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -2.97553,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.97007,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.02447,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 382.80000001192093,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 8,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.84,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -5,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.5006,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.62977e-8,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 453.69999998807907,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 10,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.8,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.87776,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.57158,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.12224,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 523.6999999880791,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 12,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.76,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.49273,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.800912,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.507269,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 594.4000000357628,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 13,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.74,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -3.84161,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.280896,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.15839,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 664.6000000238419,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 15,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.7,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -2.97531,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.0299,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.02469,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 732.6999999880791,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 17,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.66,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -1.7947,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.0679076,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.2053,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 803.4000000357628,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 18,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.64,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.973652,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.384576,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.02635,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 875,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 20,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.6,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.385826,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.971675,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.61417,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 944,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 22,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.56,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.06814,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.79356,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.93186,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1012.9000000357628,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 23,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.54,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.00737379,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.73887,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.99263,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1082.4000000357628,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 25,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.5,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.280412,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.84064,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.71959,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1154.199999988079,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 27,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.46,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.800089,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.49207,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.19991,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1224.699999988079,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 28,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.44,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -1.57048,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.87744,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.42952,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1294.6000000238419,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 30,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.4,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -2.4994,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -5,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.5006,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1364.4000000357628,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 32,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.36,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -3.42711,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.87813,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.57289,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1432.4000000357628,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 33,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.34,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.35382,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.35456,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.64618,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1503.9000000357628,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 35,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.3,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.80644,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.64228,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.193559,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1574.6000000238419,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 37,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.26,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.99264,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.73864,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.00735955,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1644.699999988079,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 38,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.24,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.93209,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.7947,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.0679076,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1715.199999988079,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 40,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.2,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.61475,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.972578,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.385255,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1782.5,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 42,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.16,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -3.84161,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.280896,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.15839,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1854.199999988079,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 43,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.14,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -2.97671,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.0300817,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.02329,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1923.800000011921,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 45,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.1,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -2.02587,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.0297477,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.97413,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1994.5,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 47,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.06,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -1.16052,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.279836,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.83948,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2062.900000035763,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 48,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.04,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.507144,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.801069,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.49286,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2132.400000035763,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 50,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.0684173,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.7922,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.93158,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2204,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 52,
+        "photo": 0.04,
+        "outline": 0.96,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.00737379,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.73887,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.99263,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2274.400000035763,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 53,
+        "photo": 0.06,
+        "outline": 0.94,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.192685,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.64,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.80732,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2342.400000035763,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 55,
+        "photo": 0.1,
+        "outline": 0.9,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.645439,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.35382,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.35456,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2415,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 57,
+        "photo": 0.14,
+        "outline": 0.86,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -1.35896,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.80692,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.64104,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2482.300000011921,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 58,
+        "photo": 0.16,
+        "outline": 0.84,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -2.4994,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -5,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.5006,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2554,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 60,
+        "photo": 0.2,
+        "outline": 0.8,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -3.42711,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.87813,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.57289,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2624.400000035763,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 62,
+        "photo": 0.24,
+        "outline": 0.76,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.19811,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.49351,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.801893,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2693.400000035763,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 63,
+        "photo": 0.26,
+        "outline": 0.74,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.7191,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.84161,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.280896,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2765.100000023842,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 65,
+        "photo": 0.3,
+        "outline": 0.7,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.96992,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.97671,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.0300817,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2832.199999988079,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 67,
+        "photo": 0.34,
+        "outline": 0.66,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.93209,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.7947,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.0679076,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2903.100000023842,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 68,
+        "photo": 0.36,
+        "outline": 0.64,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.61542,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.973652,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.384576,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2973.199999988079,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 70,
+        "photo": 0.4,
+        "outline": 0.6,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.02832,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.385826,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.971675,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3044.400000035763,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 72,
+        "photo": 0.44,
+        "outline": 0.56,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -3.20644,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.06814,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.79356,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3115.100000023842,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 73,
+        "photo": 0.46,
+        "outline": 0.54,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -2.26256,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.00728499,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.73744,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3182.199999988079,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 75,
+        "photo": 0.5,
+        "outline": 0.5,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -1.16052,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.279836,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.83948,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3254,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 77,
+        "photo": 0.54,
+        "outline": 0.46,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.507926,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.800089,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.49207,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3324.600000023842,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 78,
+        "photo": 0.56,
+        "outline": 0.44,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.122931,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.56917,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.87707,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3394.300000011921,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 80,
+        "photo": 0.6,
+        "outline": 0.4,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -5.29262e-7,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.49796,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -5,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3465,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 82,
+        "photo": 0.64,
+        "outline": 0.36,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.121866,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.42711,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.87813,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3532.199999988079,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 83,
+        "photo": 0.66,
+        "outline": 0.34,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.644557,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.35294,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.35544,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3603.199999988079,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 85,
+        "photo": 0.7,
+        "outline": 0.3,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -1.35772,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.80644,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.64228,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3674.5,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 87,
+        "photo": 0.74,
+        "outline": 0.26,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -2.25993,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.99255,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.74007,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3744.400000035763,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 88,
+        "photo": 0.76,
+        "outline": 0.24,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -3.20393,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.93237,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.79607,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3815,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 90,
+        "photo": 0.8,
+        "outline": 0.2,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.02527,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.6161,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.974727,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3882.5,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 92,
+        "photo": 0.84,
+        "outline": 0.16,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.71853,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.84277,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.281474,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3954.100000023842,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 93,
+        "photo": 0.86,
+        "outline": 0.14,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.96974,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.97811,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.030264,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 4024.400000035763,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 95,
+        "photo": 0.9,
+        "outline": 0.1,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.97043,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.02728,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.029567,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 4094.300000011921,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 97,
+        "photo": 0.94,
+        "outline": 0.06,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.72016,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.16052,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.279836,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 4165,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 98,
+        "photo": 0.96,
+        "outline": 0.04,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.20089,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.508709,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.799109,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 4232.300000011921,
+        "railWidth": 960,
+        "railX": 240,
+        "percent": 100,
+        "photo": 1,
+        "outline": 0,
+        "dash": 0,
+        "ready": true,
+        "letters": [
+          {
+            "x": 0,
+            "y": -3.20916,
+            "b": 0,
+            "c": 0,
+            "playState": "paused"
+          },
+          {
+            "x": 0,
+            "y": -0.0686951,
+            "b": 0,
+            "c": 0,
+            "playState": "paused"
+          },
+          {
+            "x": 0,
+            "y": -1.79084,
+            "b": 0,
+            "c": 0,
+            "playState": "paused"
+          }
+        ]
+      },
+      {
+        "time": 4883.600000023842,
+        "railWidth": 0,
+        "railX": 0,
+        "percent": 100,
+        "photo": 1,
+        "outline": 0,
+        "dash": 0,
+        "ready": true,
+        "letters": [
+          {
+            "x": 0,
+            "y": 0,
+            "b": 0,
+            "c": 0,
+            "playState": "paused"
+          },
+          {
+            "x": 0,
+            "y": 0,
+            "b": 0,
+            "c": 0,
+            "playState": "paused"
+          },
+          {
+            "x": 0,
+            "y": 0,
+            "b": 0,
+            "c": 0,
+            "playState": "paused"
+          }
+        ]
+      }
+    ],
+    "photoMapping": true,
+    "outlineMapping": true,
+    "heldFor4Seconds": true,
+    "verticalOnly": true,
+    "visibleAt100": true,
+    "railRatio": 0.6666666666666666,
+    "railCentered": true,
+    "allTopicsWork": [
+      {
+        "key": "self",
+        "href": "#contact",
+        "topic": "Speaking — empowerment and identity",
+        "matches": true
+      },
+      {
+        "key": "relationships",
+        "href": "#contact",
+        "topic": "Speaking — relationships and communication",
+        "matches": true
+      },
+      {
+        "key": "change",
+        "href": "#contact",
+        "topic": "Speaking — resilience and new beginnings",
+        "matches": true
+      },
+      {
+        "key": "community",
+        "href": "#contact",
+        "topic": "Speaking — faith and purpose",
+        "matches": true
+      }
+    ],
+    "pass": true
+  },
+  {
+    "width": 390,
+    "height": 844,
+    "overflow": false,
+    "brand": "COACH DÉA",
+    "brandBox": {
+      "x": 22,
+      "y": 28,
+      "width": 155.046875,
+      "height": 30,
+      "right": 177.046875
+    },
+    "navBox": {
+      "x": 0,
+      "y": 0,
+      "width": 390,
+      "height": 86,
+      "right": 390
+    },
+    "railBox": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "right": 0
+    },
+    "paths": 119,
+    "duplicateIds": [],
+    "brokenAnchors": [],
+    "badTopics": [],
+    "privateOffers": false,
+    "nameBare": false,
+    "ready": true,
+    "samples": [
+      {
+        "time": 27.30000001192093,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 0,
+        "photo": 0,
+        "outline": 1,
+        "dash": 1,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -2.5,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -5,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.5,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 241.80000001192093,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 5,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.9,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -2.97443,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.97021,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.02557,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 295.9000000357628,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 7,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.86,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.87753,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.42923,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.122473,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 364.69999998807907,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 8,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.84,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -5,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.50029,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.04982e-8,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 436.9000000357628,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 10,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.8,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.80721,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.35973,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.192789,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 504.80000001192093,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 12,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.76,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.35437,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.645986,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.645633,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 575.1999999880791,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 13,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.74,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -3.64201,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.193454,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.35799,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 646.6999999880791,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 15,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.7,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -2.73975,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.00742912,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.26025,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 716.6000000238419,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 17,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.66,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -1.7944,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.0679684,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.2056,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 786.6999999880791,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 18,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.64,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.800697,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.507441,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.1993,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 854.6999999880791,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 20,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.6,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.280769,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.15864,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.71923,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 925.1999999880791,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 22,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.56,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.02986,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.025,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.97014,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 995.8000000119209,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 23,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.54,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.0297876,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.97443,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.97021,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1064.6000000238419,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 25,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.5,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.280539,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.84089,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.71946,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1136.6000000238419,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 27,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.46,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.971912,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.61432,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.02809,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1204.699999988079,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 28,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.44,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -1.79386,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.93192,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.20614,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1275,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 30,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.4,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -2.73776,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.9927,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.26224,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1345.800000011921,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 32,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.36,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -3.64027,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.80721,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.35973,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1416.199999988079,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 33,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.34,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.35401,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.35437,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.645986,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1486.4000000357628,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 35,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.3,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.87753,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.42923,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.122473,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1554.300000011921,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 37,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.26,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -5,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.50172,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.77963e-7,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1626,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 38,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.24,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.87805,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.5726,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.121948,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1696.5,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 40,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.2,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.49334,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.801677,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.50666,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1764.800000011921,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 42,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.16,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -3.84252,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.281347,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.15748,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1836,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 43,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.14,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -2.9764,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.0300417,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.0236,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1904.699999988079,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 45,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.1,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -1.79577,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.0676921,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.20423,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1976.1000000238419,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 47,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.06,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.972341,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.385404,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.02766,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2045.9000000357628,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 48,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.04,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.385676,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.971912,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.61432,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2116.199999988079,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 50,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.0680791,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.79386,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.93192,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2186.300000011921,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 52,
+        "photo": 0.04,
+        "outline": 0.96,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.0296067,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.97303,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.97039,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2254.199999988079,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 53,
+        "photo": 0.06,
+        "outline": 0.94,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.279963,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.83973,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.72004,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2325.800000011921,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 55,
+        "photo": 0.1,
+        "outline": 0.9,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.800304,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.49225,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.1997,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2396.300000011921,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 57,
+        "photo": 0.14,
+        "outline": 0.86,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -1.57077,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.87753,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.42923,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2465.5,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 58,
+        "photo": 0.16,
+        "outline": 0.84,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -2.49828,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -5,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.50172,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2536.100000023842,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 60,
+        "photo": 0.2,
+        "outline": 0.8,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -3.64027,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.80721,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.35973,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2605.300000011921,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 62,
+        "photo": 0.24,
+        "outline": 0.76,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.35313,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.35525,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.646869,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2675.900000035763,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 63,
+        "photo": 0.26,
+        "outline": 0.74,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.80655,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.64201,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.193454,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2746.199999988079,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 65,
+        "photo": 0.3,
+        "outline": 0.7,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.99248,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.74118,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.00751881,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2815.900000035763,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 67,
+        "photo": 0.34,
+        "outline": 0.66,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.93203,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.7944,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.0679684,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2884.900000035763,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 68,
+        "photo": 0.36,
+        "outline": 0.64,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.61595,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.974491,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.384047,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2954.100000023842,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 70,
+        "photo": 0.4,
+        "outline": 0.6,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -3.84252,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.281347,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.15748,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3025.900000035763,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 72,
+        "photo": 0.44,
+        "outline": 0.56,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -2.9764,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.0300417,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.0236,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3095.900000035763,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 73,
+        "photo": 0.46,
+        "outline": 0.54,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -2.02697,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.0296067,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.97303,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3165.900000035763,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 75,
+        "photo": 0.5,
+        "outline": 0.5,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -1.16027,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.279963,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.83973,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3236.199999988079,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 77,
+        "photo": 0.54,
+        "outline": 0.46,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.385676,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.971912,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.61432,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3304.100000023842,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 78,
+        "photo": 0.56,
+        "outline": 0.44,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.0683562,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.7925,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.93164,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3375.900000035763,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 80,
+        "photo": 0.6,
+        "outline": 0.4,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.0072161,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.73633,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.99278,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3445.800000011921,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 82,
+        "photo": 0.64,
+        "outline": 0.36,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.192315,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.63903,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.80768,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3514.600000023842,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 83,
+        "photo": 0.66,
+        "outline": 0.34,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.644751,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.35313,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.35525,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3585.800000011921,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 85,
+        "photo": 0.7,
+        "outline": 0.3,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -1.35799,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.80655,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.64201,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3654.199999988079,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 87,
+        "photo": 0.74,
+        "outline": 0.26,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -2.49684,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -5,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.50316,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3725.900000035763,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 88,
+        "photo": 0.76,
+        "outline": 0.24,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -3.42609,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.87843,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.57391,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3796.5,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 90,
+        "photo": 0.8,
+        "outline": 0.2,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.19734,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.49412,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.802659,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3866,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 92,
+        "photo": 0.84,
+        "outline": 0.16,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.71808,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.84368,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.281924,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3936.300000011921,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 93,
+        "photo": 0.86,
+        "outline": 0.14,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.99248,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.74118,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.00751881,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 4004.100000023842,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 95,
+        "photo": 0.9,
+        "outline": 0.1,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.93258,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.79713,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.0674164,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 4075,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 97,
+        "photo": 0.94,
+        "outline": 0.06,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.61595,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.974491,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.384047,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 4145.800000011921,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 98,
+        "photo": 0.96,
+        "outline": 0.04,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.02916,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.386356,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.970838,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 4215.100000023842,
+        "railWidth": 260,
+        "railX": 65,
+        "percent": 100,
+        "photo": 1,
+        "outline": 0,
+        "dash": 0,
+        "ready": true,
+        "letters": [
+          {
+            "x": 0,
+            "y": -3.2075,
+            "b": 0,
+            "c": 0,
+            "playState": "paused"
+          },
+          {
+            "x": 0,
+            "y": -0.0683562,
+            "b": 0,
+            "c": 0,
+            "playState": "paused"
+          },
+          {
+            "x": 0,
+            "y": -1.7925,
+            "b": 0,
+            "c": 0,
+            "playState": "paused"
+          }
+        ]
+      },
+      {
+        "time": 4867.900000035763,
+        "railWidth": 0,
+        "railX": 0,
+        "percent": 100,
+        "photo": 1,
+        "outline": 0,
+        "dash": 0,
+        "ready": true,
+        "letters": [
+          {
+            "x": 0,
+            "y": 0,
+            "b": 0,
+            "c": 0,
+            "playState": "paused"
+          },
+          {
+            "x": 0,
+            "y": 0,
+            "b": 0,
+            "c": 0,
+            "playState": "paused"
+          },
+          {
+            "x": 0,
+            "y": 0,
+            "b": 0,
+            "c": 0,
+            "playState": "paused"
+          }
+        ]
+      }
+    ],
+    "photoMapping": true,
+    "outlineMapping": true,
+    "heldFor4Seconds": true,
+    "verticalOnly": true,
+    "visibleAt100": true,
+    "railRatio": 0.6666666666666666,
+    "railCentered": true,
+    "allTopicsWork": [
+      {
+        "key": "self",
+        "href": "#contact",
+        "topic": "Speaking — empowerment and identity",
+        "matches": true
+      },
+      {
+        "key": "relationships",
+        "href": "#contact",
+        "topic": "Speaking — relationships and communication",
+        "matches": true
+      },
+      {
+        "key": "change",
+        "href": "#contact",
+        "topic": "Speaking — resilience and new beginnings",
+        "matches": true
+      },
+      {
+        "key": "community",
+        "href": "#contact",
+        "topic": "Speaking — faith and purpose",
+        "matches": true
+      }
+    ],
+    "pass": true
+  },
+  {
+    "width": 768,
+    "height": 900,
+    "overflow": false,
+    "brand": "COACH DÉA",
+    "brandBox": {
+      "x": 22,
+      "y": 28,
+      "width": 155.046875,
+      "height": 30,
+      "right": 177.046875
+    },
+    "navBox": {
+      "x": 0,
+      "y": 0,
+      "width": 768,
+      "height": 86,
+      "right": 768
+    },
+    "railBox": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "right": 0
+    },
+    "paths": 119,
+    "duplicateIds": [],
+    "brokenAnchors": [],
+    "badTopics": [],
+    "privateOffers": false,
+    "nameBare": false,
+    "ready": true,
+    "samples": [
+      {
+        "time": 24.80000001192093,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 0,
+        "photo": 0,
+        "outline": 1,
+        "dash": 1,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -2.5,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -5,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.5,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 242.30000001192093,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 5,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.9,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -2.5,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -5,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.5,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 294.60000002384186,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 7,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.86,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -3.20557,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.93204,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.79443,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 365,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 8,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.84,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.02764,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.61461,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.972363,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 434.30000001192093,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 10,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.8,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.61431,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.02811,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.38569,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 504.39999997615814,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 12,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.76,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.93192,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.20617,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.0680846,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 574.6999999880791,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 13,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.74,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.97022,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.02559,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.0297839,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 644.6000000238419,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 15,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.7,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.71947,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.15913,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.280527,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 714.1999999880791,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 17,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.66,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.19873,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.506988,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.801265,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 786,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 18,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.64,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -3.42795,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.122106,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.57205,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 855.1000000238419,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 20,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.6,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -2.50032,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.27029e-8,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.49968,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 923.6000000238419,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 22,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.56,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -1.35975,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.19278,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.64025,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 993.6999999880791,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 23,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.54,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.646004,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.645615,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.354,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1064.8999999761581,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 25,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.5,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.192989,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.35921,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.80701,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1135,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 27,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.46,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.00743091,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.26022,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.99257,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1205.5,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 28,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.44,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.0679629,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.20557,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.93204,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1274.5,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 30,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.4,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.506644,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.1983,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.49336,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1343.699999988079,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 32,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.36,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -1.15862,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.71922,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.84138,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1415,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 33,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.34,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -2.02498,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.97014,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.97502,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1485.5,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 35,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.3,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -2.97441,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.97022,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.02559,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1555.800000011921,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 37,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.26,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -3.83971,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.72005,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.16029,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1623.6000000238419,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 38,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.24,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.61431,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.02811,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.38569,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1693.6000000238419,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 40,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.2,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.93192,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.20617,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.0680846,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1765.5,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 42,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.16,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.99261,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.26084,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.00739162,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1835.6000000238419,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 43,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.14,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.80722,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.35975,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.19278,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1904.5,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 45,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.1,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.35527,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.646887,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.644733,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1973.800000011921,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 47,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.06,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -3.43057,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.122856,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.56944,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2043.6000000238419,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 48,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.04,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -2.50032,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.27029e-8,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.49968,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2115.600000023842,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 50,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -1.57262,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.121941,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.42738,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2184.199999988079,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 52,
+        "photo": 0.04,
+        "outline": 0.96,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.801697,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.506644,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.1983,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2307.699999988079,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 55,
+        "photo": 0.1,
+        "outline": 0.9,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.38637,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.970817,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.61363,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2394.100000023842,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 57,
+        "photo": 0.14,
+        "outline": 0.86,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.0679629,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.20557,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.93204,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2464.5,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 58,
+        "photo": 0.16,
+        "outline": 0.84,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.384712,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.02656,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.61529,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2535.800000011921,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 60,
+        "photo": 0.2,
+        "outline": 0.8,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.97189,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.61431,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.02811,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2605.199999988079,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 62,
+        "photo": 0.24,
+        "outline": 0.76,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -1.79247,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.93164,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.20753,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2674.600000023842,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 63,
+        "photo": 0.26,
+        "outline": 0.74,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -2.97441,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.97022,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.02559,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2744.600000023842,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 65,
+        "photo": 0.3,
+        "outline": 0.7,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -3.84087,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.71947,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.15913,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2814.300000011921,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 67,
+        "photo": 0.34,
+        "outline": 0.66,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.49145,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.2007,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.508552,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2885.699999988079,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 68,
+        "photo": 0.36,
+        "outline": 0.64,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.87714,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.43057,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.122856,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2953.899999976158,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 70,
+        "photo": 0.4,
+        "outline": 0.6,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -5,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.50175,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.90668e-7,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3024.300000011921,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 72,
+        "photo": 0.44,
+        "outline": 0.56,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.80722,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.35975,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.19278,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3093.699999988079,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 73,
+        "photo": 0.46,
+        "outline": 0.54,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.35527,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.646887,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.644733,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3166,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 75,
+        "photo": 0.5,
+        "outline": 0.5,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -3.64203,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.193464,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.35797,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3235.699999988079,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 77,
+        "photo": 0.54,
+        "outline": 0.46,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -2.73978,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.00743091,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.26022,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3305.300000011921,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 78,
+        "photo": 0.56,
+        "outline": 0.44,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -1.79579,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.0676866,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.20421,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3373.199999988079,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 80,
+        "photo": 0.6,
+        "outline": 0.4,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.974512,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.384033,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.02549,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3444.399999976158,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 82,
+        "photo": 0.64,
+        "outline": 0.36,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.281358,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.15746,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.71864,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3515.100000023842,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 83,
+        "photo": 0.66,
+        "outline": 0.34,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.0300453,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.02357,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.96995,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3584.199999988079,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 85,
+        "photo": 0.7,
+        "outline": 0.3,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.0296031,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.973,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.9704,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3655.899999976158,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 87,
+        "photo": 0.74,
+        "outline": 0.26,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.279951,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.83971,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.72005,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3724.100000023842,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 88,
+        "photo": 0.76,
+        "outline": 0.24,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.970817,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.61363,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.02918,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3794.699999988079,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 90,
+        "photo": 0.8,
+        "outline": 0.2,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -1.79111,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.93136,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.20889,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3864.600000023842,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 92,
+        "photo": 0.84,
+        "outline": 0.16,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -2.7363,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.99279,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.2637,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3935,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 93,
+        "photo": 0.86,
+        "outline": 0.14,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -3.63901,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.80769,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.36099,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 4006,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 95,
+        "photo": 0.9,
+        "outline": 0.1,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.35311,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.35527,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.646887,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 4073.800000011921,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 97,
+        "photo": 0.94,
+        "outline": 0.06,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.87714,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.43057,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.122856,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 4143.800000011921,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 98,
+        "photo": 0.96,
+        "outline": 0.04,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -5,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.50175,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.90668e-7,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 4214.199999988079,
+        "railWidth": 512,
+        "railX": 128,
+        "percent": 100,
+        "photo": 1,
+        "outline": 0,
+        "dash": 0,
+        "ready": true,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.87843,
+            "b": 0,
+            "c": 0,
+            "playState": "paused"
+          },
+          {
+            "x": 0,
+            "y": -1.57393,
+            "b": 0,
+            "c": 0,
+            "playState": "paused"
+          },
+          {
+            "x": 0,
+            "y": -0.121567,
+            "b": 0,
+            "c": 0,
+            "playState": "paused"
+          }
+        ]
+      },
+      {
+        "time": 4866.600000023842,
+        "railWidth": 0,
+        "railX": 0,
+        "percent": 100,
+        "photo": 1,
+        "outline": 0,
+        "dash": 0,
+        "ready": true,
+        "letters": [
+          {
+            "x": 0,
+            "y": 0,
+            "b": 0,
+            "c": 0,
+            "playState": "paused"
+          },
+          {
+            "x": 0,
+            "y": 0,
+            "b": 0,
+            "c": 0,
+            "playState": "paused"
+          },
+          {
+            "x": 0,
+            "y": 0,
+            "b": 0,
+            "c": 0,
+            "playState": "paused"
+          }
+        ]
+      }
+    ],
+    "photoMapping": true,
+    "outlineMapping": true,
+    "heldFor4Seconds": true,
+    "verticalOnly": true,
+    "visibleAt100": true,
+    "railRatio": 0.6666666666666666,
+    "railCentered": true,
+    "allTopicsWork": [
+      {
+        "key": "self",
+        "href": "#contact",
+        "topic": "Speaking — empowerment and identity",
+        "matches": true
+      },
+      {
+        "key": "relationships",
+        "href": "#contact",
+        "topic": "Speaking — relationships and communication",
+        "matches": true
+      },
+      {
+        "key": "change",
+        "href": "#contact",
+        "topic": "Speaking — resilience and new beginnings",
+        "matches": true
+      },
+      {
+        "key": "community",
+        "href": "#contact",
+        "topic": "Speaking — faith and purpose",
+        "matches": true
+      }
+    ],
+    "pass": true
+  },
+  {
+    "width": 3840,
+    "height": 2160,
+    "overflow": false,
+    "brand": "COACH DÉA\nSPEAKER & MODERATOR",
+    "brandBox": {
+      "x": 138.234375,
+      "y": 45.5,
+      "width": 575.15625,
+      "height": 74,
+      "right": 713.390625
+    },
+    "navBox": {
+      "x": 0,
+      "y": 0,
+      "width": 3840,
+      "height": 165,
+      "right": 3840
+    },
+    "railBox": {
+      "x": 0,
+      "y": 0,
+      "width": 0,
+      "height": 0,
+      "right": 0
+    },
+    "paths": 119,
+    "duplicateIds": [],
+    "brokenAnchors": [],
+    "badTopics": [],
+    "privateOffers": false,
+    "nameBare": false,
+    "ready": true,
+    "samples": [
+      {
+        "time": 26.19999998807907,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 0,
+        "photo": 0,
+        "outline": 1,
+        "dash": 1,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -2.5,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -5,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.5,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 237.10000002384186,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 5,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.9,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -2.5,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -5,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.5,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 304.39999997615814,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 7,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.86,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -3.42816,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.87783,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.57184,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 373.80000001192093,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 8,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.84,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.19889,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.49289,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.801108,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 443.5,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 10,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.8,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.80682,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.64129,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.193179,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 513.1000000238419,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 12,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.76,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.99262,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.73893,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.00737736,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 583.8999999761581,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 13,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.74,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.93187,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.79361,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.068129,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 654.6999999880791,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 15,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.7,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.61488,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.972793,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.385119,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 724.6000000238419,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 17,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.66,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.02747,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.385282,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.972535,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 793.8000000119209,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 18,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.64,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -2.97559,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.0299363,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.02441,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 862.8999999761581,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 20,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.6,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -2.02475,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.0298927,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.97525,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 933.8000000119209,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 22,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.56,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -1.15959,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.280297,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.84041,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1005,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 23,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.54,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.5073,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.800873,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.4927,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1073.3999999761581,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 25,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.5,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.122255,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.57153,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.87774,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1144.3999999761581,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 27,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.46,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.00735599,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.73858,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.99264,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1213.699999988079,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 28,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.44,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.193065,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.64099,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.80694,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1283.5,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 30,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.4,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.646145,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.35453,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.35385,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1352.8999999761581,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 32,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.36,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -1.35871,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.80682,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.64129,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1425,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 33,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.34,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -2.25965,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.99253,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.74035,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1493.5,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 35,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.3,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -3.42685,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.87821,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.57315,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1563.800000011921,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 37,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.26,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.19791,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.49367,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.802089,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1634.1000000238419,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 38,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.24,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.71899,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.84185,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.281012,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1704.3999999761581,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 40,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.2,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.97006,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.97559,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.0299363,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1773.1000000238419,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 42,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.16,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.97029,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.02615,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.0297115,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1845,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 43,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.14,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.61488,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.972793,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.385119,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1913.1000000238419,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 45,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.1,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.02854,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.385962,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.971461,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 1984.800000011921,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 47,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.06,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -3.20671,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.0681954,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.79329,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2054.699999988079,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 48,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0.04,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -2.26142,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.00735599,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.73858,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2124.600000023842,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 50,
+        "photo": 0,
+        "outline": 1,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -1.36025,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.19259,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.63975,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2193.100000023842,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 52,
+        "photo": 0.04,
+        "outline": 0.96,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.5073,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.800873,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.4927,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2262.899999976158,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 53,
+        "photo": 0.06,
+        "outline": 0.94,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.12263,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.57022,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.87737,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2334.800000011921,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 55,
+        "photo": 0.1,
+        "outline": 0.9,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -1.00891e-7,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.49911,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -5,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2404.5,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 57,
+        "photo": 0.14,
+        "outline": 0.86,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.121791,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.42685,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.87821,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2474.300000011921,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 58,
+        "photo": 0.16,
+        "outline": 0.84,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.506331,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.19791,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.49367,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2542.399999976158,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 60,
+        "photo": 0.2,
+        "outline": 0.8,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -1.35871,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.80682,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.64129,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2613.899999976158,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 62,
+        "photo": 0.24,
+        "outline": 0.76,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -2.25965,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.99253,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.74035,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2684.399999976158,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 63,
+        "photo": 0.26,
+        "outline": 0.74,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -3.20502,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.93215,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.79498,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2753.800000011921,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 65,
+        "photo": 0.3,
+        "outline": 0.7,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.02613,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.61556,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.973867,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2824.699999988079,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 67,
+        "photo": 0.34,
+        "outline": 0.66,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.61404,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.02854,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.385962,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2892.300000011921,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 68,
+        "photo": 0.36,
+        "outline": 0.64,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.96988,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.97699,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.0301181,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 2963.100000023842,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 70,
+        "photo": 0.4,
+        "outline": 0.6,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.97029,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.02615,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.0297115,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3034.399999976158,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 72,
+        "photo": 0.44,
+        "outline": 0.56,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.72028,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.16076,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.279721,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3104.5,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 73,
+        "photo": 0.46,
+        "outline": 0.54,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.20011,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.508083,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.799893,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3175,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 75,
+        "photo": 0.5,
+        "outline": 0.5,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -3.43109,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.123006,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.56891,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3242.300000011921,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 77,
+        "photo": 0.54,
+        "outline": 0.46,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -2.26142,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.00735599,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.73858,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3314.100000023842,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 78,
+        "photo": 0.56,
+        "outline": 0.44,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -1.36025,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.19259,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.63975,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3384.5,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 80,
+        "photo": 0.6,
+        "outline": 0.4,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.64724,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.64438,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.35276,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3454.300000011921,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 82,
+        "photo": 0.64,
+        "outline": 0.36,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.193654,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -1.35747,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.80635,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3525.100000023842,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 83,
+        "photo": 0.66,
+        "outline": 0.34,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.00746672,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.25965,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.99253,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3592.399999976158,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 85,
+        "photo": 0.7,
+        "outline": 0.3,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.121791,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.42685,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.87821,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3664.199999988079,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 87,
+        "photo": 0.74,
+        "outline": 0.26,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -0.506331,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.19791,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.49367,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3734.199999988079,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 88,
+        "photo": 0.76,
+        "outline": 0.24,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -1.15699,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.71841,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.84301,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3803.399999976158,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 90,
+        "photo": 0.8,
+        "outline": 0.2,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -2.02301,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.96988,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.97699,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3875,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 92,
+        "photo": 0.84,
+        "outline": 0.16,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -2.97385,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.97029,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.02615,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 3942.300000011921,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 93,
+        "photo": 0.86,
+        "outline": 0.14,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.02613,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.61556,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.973867,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 4012.199999988079,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 95,
+        "photo": 0.9,
+        "outline": 0.1,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.61404,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -4.02854,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.385962,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 4084.399999976158,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 97,
+        "photo": 0.94,
+        "outline": 0.06,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.93153,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -3.20807,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.0684728,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 4154.300000011921,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 98,
+        "photo": 0.96,
+        "outline": 0.04,
+        "dash": 0,
+        "ready": false,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.99273,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -2.26284,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          },
+          {
+            "x": 0,
+            "y": -0.0072673,
+            "b": 0,
+            "c": 0,
+            "playState": "running"
+          }
+        ]
+      },
+      {
+        "time": 4224.399999976158,
+        "railWidth": 2560,
+        "railX": 640,
+        "percent": 100,
+        "photo": 1,
+        "outline": 0,
+        "dash": 0,
+        "ready": true,
+        "letters": [
+          {
+            "x": 0,
+            "y": -4.80788,
+            "b": 0,
+            "c": 0,
+            "playState": "paused"
+          },
+          {
+            "x": 0,
+            "y": -1.36149,
+            "b": 0,
+            "c": 0,
+            "playState": "paused"
+          },
+          {
+            "x": 0,
+            "y": -0.192116,
+            "b": 0,
+            "c": 0,
+            "playState": "paused"
+          }
+        ]
+      },
+      {
+        "time": 4874.699999988079,
+        "railWidth": 0,
+        "railX": 0,
+        "percent": 100,
+        "photo": 1,
+        "outline": 0,
+        "dash": 0,
+        "ready": true,
+        "letters": [
+          {
+            "x": 0,
+            "y": 0,
+            "b": 0,
+            "c": 0,
+            "playState": "paused"
+          },
+          {
+            "x": 0,
+            "y": 0,
+            "b": 0,
+            "c": 0,
+            "playState": "paused"
+          },
+          {
+            "x": 0,
+            "y": 0,
+            "b": 0,
+            "c": 0,
+            "playState": "paused"
+          }
+        ]
+      }
+    ],
+    "photoMapping": true,
+    "outlineMapping": true,
+    "heldFor4Seconds": true,
+    "verticalOnly": true,
+    "visibleAt100": true,
+    "railRatio": 0.6666666666666666,
+    "railCentered": true,
+    "allTopicsWork": [
+      {
+        "key": "self",
+        "href": "#contact",
+        "topic": "Speaking — empowerment and identity",
+        "matches": true
+      },
+      {
+        "key": "relationships",
+        "href": "#contact",
+        "topic": "Speaking — relationships and communication",
+        "matches": true
+      },
+      {
+        "key": "change",
+        "href": "#contact",
+        "topic": "Speaking — resilience and new beginnings",
+        "matches": true
+      },
+      {
+        "key": "community",
+        "href": "#contact",
+        "topic": "Speaking — faith and purpose",
+        "matches": true
+      }
+    ],
+    "pass": true
+  }
+]

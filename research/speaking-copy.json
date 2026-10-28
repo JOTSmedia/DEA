@@ -1,0 +1,161 @@
+{
+  "scope": "Copy for existing layout. Emphasize speaking and moderation; remove private coaching offers; keep The Radiant Woman as a secondary community option.",
+  "name_rule": "Use COACH DÉA in every visible name reference, alt text, accessibility label, page title, meta description and prepared email greeting. Preserve existing email addresses, handles, URLs and filenames.",
+  "sources": [
+    "https://www.coachingwithdea.com/bookings",
+    "https://www.coachingwithdea.com/",
+    "https://www.coachingwithdea.com/podcast",
+    "https://www.coachingwithdea.com/webinar-registration"
+  ],
+  "hero": {
+    "optional_heading": [
+      "Conversations",
+      "that connect"
+    ],
+    "supporting_line": "Speaking and moderated conversations with COACH DÉA. A personal perspective on empowerment, relationships, and beginning again.",
+    "cta": "Invite COACH DÉA",
+    "cta_href": "#contact",
+    "cta_topic": "Speaking engagement",
+    "secondary_cta": "Explore speaking topics",
+    "secondary_href": "#speaking"
+  },
+  "about_lead": "A speaker, moderator, and award-winning podcast host who brings lived experience to conversations about change.",
+  "topic_selector": {
+    "heading": [
+      "What will",
+      "bring us together?"
+    ],
+    "supporting_line": "Explore a few starting points for your next conversation.",
+    "aria_label": "Explore speaking topics",
+    "note": "These are editorial themes drawn from verified work and biography, not claimed pre-existing named talks or guaranteed session curricula.",
+    "choices": [
+      {
+        "key": "self",
+        "choice": "Empowerment & identity",
+        "question": "A voice of your own",
+        "description": "Explore self-awareness, personal values, and the relationship we build with ourselves. A starting point for conversations about women’s empowerment and finding a sense of purpose.",
+        "offer": "Discuss this theme for your event.",
+        "label": "Enquire about this topic",
+        "href": "#contact",
+        "topic": "Speaking — empowerment and identity"
+      },
+      {
+        "key": "relationships",
+        "choice": "Relationships & communication",
+        "question": "Connection starts here",
+        "description": "Open a conversation about healthy relationships, communicating needs, and navigating conflict. These themes connect with COACH DÉA’s background in marriage and family coaching.",
+        "offer": "Discuss this theme for your event.",
+        "label": "Enquire about this topic",
+        "href": "#contact",
+        "topic": "Speaking — relationships and communication"
+      },
+      {
+        "key": "change",
+        "choice": "Resilience & new beginnings",
+        "question": "Room for a new chapter",
+        "description": "Starting again is part of COACH DÉA’s own story. Her experience of divorce, rebuilding, creativity, and faith brings a personal perspective to conversations about change.",
+        "offer": "Discuss this theme for your event.",
+        "label": "Enquire about this topic",
+        "href": "#contact",
+        "topic": "Speaking — resilience and new beginnings"
+      },
+      {
+        "key": "community",
+        "choice": "Faith & purpose",
+        "question": "Living with purpose",
+        "description": "Faith runs through COACH DÉA’s life and creative work. Explore it as a source of meaning and connection, with a welcome for people of every background.",
+        "offer": "Discuss this theme and your audience.",
+        "label": "Enquire about this topic",
+        "href": "#contact",
+        "topic": "Speaking — faith and purpose"
+      }
+    ]
+  },
+  "engagements": {
+    "heading": [
+      "Bring the",
+      "conversation to life"
+    ],
+    "supporting_line": "Speaking, moderation, and a community to grow alongside.",
+    "rows": [
+      {
+        "title": "Speaking engagements",
+        "description": "Invite COACH DÉA to share a personal perspective on empowerment, relationships, and beginning again. Tell her about your event and the conversation you want to open.",
+        "aside": "Event enquiries",
+        "href": "#contact",
+        "topic": "Speaking engagement"
+      },
+      {
+        "title": "Moderated conversations",
+        "description": "Make space for another person’s story. Discuss a conversation with COACH DÉA, a moderator and the host of the award-winning Love Most podcast.",
+        "aside": "Moderation",
+        "href": "#contact",
+        "topic": "Moderation enquiry"
+      },
+      {
+        "title": "The Radiant Woman",
+        "description": "A women’s mentorship community exploring self-discovery, personal growth, healing, and healthier relationships.",
+        "aside": "Community",
+        "href": "#mentorship",
+        "topic": "The Radiant Woman mentorship",
+        "role": "secondary community offer"
+      }
+    ]
+  },
+  "faq": [
+    {
+      "question": "What does COACH DÉA speak about?",
+      "answer": "Her work centers on women’s empowerment, relationships, self-discovery, and life’s new chapters. Her experience as a Certified Trauma Healing Facilitator and her own journey of faith also inform her perspective. Share your audience and goals to discuss the right focus."
+    },
+    {
+      "question": "Can COACH DÉA moderate our conversation?",
+      "answer": "Yes. COACH DÉA is a speaker and moderator, and hosts Love Most, The Podcast with COACH DÉA. Use the enquiry form to describe the conversation, participants, and format you have in mind."
+    },
+    {
+      "question": "Does the audience need to share her faith?",
+      "answer": "No. Faith is part of COACH DÉA’s personal story, and she welcomes people of all backgrounds, including those with no religious faith. Include any relevant audience context in your event enquiry."
+    },
+    {
+      "question": "How do we enquire about an engagement?",
+      "answer": "Send your event date, location or online format, audience, and proposed topic through the enquiry form. It prepares an email to COACH DÉA so you can discuss availability, fit, and arrangements directly."
+    }
+  ],
+  "contact": {
+    "heading": [
+      "Tell me about",
+      "your gathering."
+    ],
+    "supporting_line": "Share the people, the purpose, and the conversation you have in mind.",
+    "topic_label": "What are you planning?",
+    "message_label": "Event details",
+    "message_placeholder": "Date, location or online format, audience, and a little about your event.",
+    "button": "Write to COACH DÉA",
+    "topic_options": [
+      "Speaking engagement",
+      "Moderation enquiry",
+      "Speaking — empowerment and identity",
+      "Speaking — relationships and communication",
+      "Speaking — resilience and new beginnings",
+      "Speaking — faith and purpose",
+      "Podcast enquiry",
+      "The Radiant Woman mentorship"
+    ],
+    "email_subject_prefix": "Engagement enquiry",
+    "email_greeting": "Hi COACH DÉA,",
+    "email_closing": "I’d love to discuss the details with you."
+  },
+  "remove_or_replace": [
+    "Private coaching service row",
+    "One-to-one coaching wording",
+    "90-minute private-session details",
+    "Consultation-specific primary CTA and 45-minute row",
+    "Private coaching topic in JavaScript selector",
+    "Private coaching or consultation options in enquiry dropdown",
+    "Coaching-specific email subject where used for speaking leads"
+  ],
+  "avoid_claims": [
+    "Do not invent keynote history, audience counts, testimonials, workshop availability, speaking rates, dates or travel coverage.",
+    "Do not present generic topic labels as named signature talks already delivered.",
+    "Do not imply mentorship was removed; keep it available but secondary."
+  ]
+}

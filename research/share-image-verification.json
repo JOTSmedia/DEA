@@ -1,0 +1,20 @@
+{
+  "primary": "assets/share-dea-purple-portrait-v1.png",
+  "primary_dimensions": [
+    702,
+    912
+  ],
+  "primary_exact_copy_of_user_reference": true,
+  "primary_sha256": "389f78b06a48266382767e94f72f9e373b4fa265225026ea0a40823358dbc2d4",
+  "wide": "assets/share-dea-purple-wide-v1.png",
+  "wide_dimensions": [
+    1200,
+    630
+  ],
+  "wide_sources": [
+    "assets/dea-original-cutout.webp",
+    "assets/ethereal-sanctuary.jpg"
+  ],
+  "wide_method": "Browser-rendered CSS composition; original portrait asset unchanged; no generative image editing",
+  "hosting_access": "owner-private; unauthenticated page request returned HTTP401"
+}

@@ -1,0 +1,22 @@
+{
+  "method": "Apple Vision foreground segmentation; original RGB plus alpha mask only",
+  "source": "assets/dea-portrait.jpg",
+  "source_size": [
+    4827,
+    3218
+  ],
+  "crop_bounds": [
+    462,
+    118,
+    3036,
+    3218
+  ],
+  "output_size": [
+    2574,
+    3100
+  ],
+  "rgb_pixels_identical_to_source_crop": true,
+  "generated_pixels": 0,
+  "source_sha256": "f464542919a515db3a4c33f80946da6cfdd9b9eba0380afa594f781176a554e1",
+  "lossless_webp_identical_to_png": true
+}

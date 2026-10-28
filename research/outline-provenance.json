@@ -1,0 +1,78 @@
+{
+  "method": "Non-generative deterministic alpha-silhouette and photographic-edge contour tracing",
+  "source": "assets/dea-original-cutout.png",
+  "source_sha256": "7047a64ef6601c63df2c690451cc63f46ad5e491902eada613d84eb670d132f6",
+  "original_photo": "assets/dea-portrait.jpg",
+  "original_photo_sha256": "f464542919a515db3a4c33f80946da6cfdd9b9eba0380afa594f781176a554e1",
+  "source_rgb_exactly_matches_original_crop": true,
+  "original_crop_bounds": [
+    462,
+    118,
+    3036,
+    3218
+  ],
+  "viewBox": [
+    0,
+    0,
+    2574,
+    3100
+  ],
+  "trace_dimensions": [
+    1287,
+    1550
+  ],
+  "silhouette": {
+    "alpha_threshold": 128,
+    "minimum_contour_area_trace_pixels": 45,
+    "simplification_epsilon_trace_pixels": 1.15,
+    "path_count": 1,
+    "photograph_bottom_crop_boundary_omitted": true
+  },
+  "internal_edges": {
+    "grayscale": "OpenCV RGB2GRAY",
+    "bilateral_filter": {
+      "diameter": 7,
+      "sigma_color": 45,
+      "sigma_space": 6
+    },
+    "gaussian_blur": {
+      "kernel": [
+        5,
+        5
+      ],
+      "sigma": 1.1
+    },
+    "canny_thresholds": [
+      35,
+      90
+    ],
+    "mask_minimum_alpha": 245,
+    "mask_erosion_kernel": [
+      9,
+      9
+    ],
+    "minimum_contour_length_trace_pixels": 40,
+    "maximum_path_count": 120,
+    "simplification_epsilon_trace_pixels": 1.0,
+    "path_count": 118
+  },
+  "output": "assets/dea-loader-outline.svg",
+  "output_sha256": "888228370542a980a54f37cf51a19730931976a804d52c12ab66c305b341152c",
+  "output_bytes": 24445,
+  "total_path_count": 119,
+  "all_paths_normalized_path_length": 1,
+  "stroke_style": {
+    "silhouette_width": 8,
+    "silhouette_opacity": 0.92,
+    "internal_width": 4.5,
+    "internal_opacity": 0.42
+  },
+  "embedded_rasters": 0,
+  "generated_pixels": 0,
+  "hand_drawn_paths": 0,
+  "photographic_assets_unchanged": true,
+  "versions": {
+    "opencv": "5.0.0",
+    "numpy": "2.0.2"
+  }
+}
